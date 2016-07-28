@@ -1,6 +1,6 @@
 name: Mister Vue
 favicon: null
-layout_spectrum: 0.6556305773556232
+layout_spectrum: 0.94295
 typography_spectrum: 0.08093191799707711
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.12034957762807608
-  lightness: 0.8618992583360523
-  saturation: 0.9584838196169585
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.875
   rhythmicContrast: 0.6465678131207824
 purpose: []
