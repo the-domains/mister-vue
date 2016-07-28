@@ -4,8 +4,15 @@
         <description><![CDATA[Mister Vue]]></description>
         <link>https://thegrid.ai/mister-vue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 17:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 17:36:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mister-vue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Resources]]></title>
+            <description><![CDATA[<article><h1>Resources</h1><p>Parent hoursCommon Core</p></article>]]></description>
+            <link>https://thegrid.ai/mister-vue/resources/index.html</link>
+            <guid isPermaLink="false">400d4840-63b6-42ab-8ddc-265e2b200b4e</guid>
+            <pubDate>Thu, 28 Jul 2016 17:36:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d564fae-b867-4944-b497-22a7b8ac123b.jpg">]]></description>
