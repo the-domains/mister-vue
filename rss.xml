@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mister Vue]]></title>
         <description><![CDATA[Mister Vue]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mister-vue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 22:59:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 17:34:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mister-vue/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d564fae-b867-4944-b497-22a7b8ac123b.jpg">]]></description>
-            <link>undefinedw/index.html</link>
+            <link>https://thegrid.ai/mister-vue/w/index.html</link>
             <guid isPermaLink="false">c28f5da7-90f1-4128-a026-2a012d9a3c4f</guid>
-            <pubDate>Wed, 27 Jul 2016 22:58:45 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 17:33:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
